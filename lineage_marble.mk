@@ -34,7 +34,6 @@ MATRIXX_DISPLAY := 1080x2400
 
 # Gapps
 WITH_GAPPS := true
-EXTRA_GAPPS := true
 
 # Nuke AudioFX
 TARGET_EXCLUDES_AUDIOFX := true
